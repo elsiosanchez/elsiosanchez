@@ -1,11 +1,10 @@
-<h1 align="center"> 💻 I'm Elsio Sanchez</h1>
-<h3 align="center">Software Engineer from Venezuela 🇻🇪👋</h3>
+<h1 align="center"> 💻 Elsio Sanchez</h1>
+<h3 align="center">Ingeniero de software de Venezuela 🇻🇪👋</h3>
 
 
-- 💬 Ask me about **NodeJS, Vue, Vuex, Angular, PHP, JavaScritp, typescript**
+- 💬 Pregúntame sobre **NodeJS, Vue, Vuex, Angular, PHP, JavaScritp, typescript**
 
-- 📫 How to reach me **elsiosanches@gmail.com**
-
+- 📫 Cómo ponerse en contacto conmigo **elsiosanchez15@outlook.com**
 
 <a href='https://www.linkedin.com/in/elsiosanchez/'>
   <img alt="linkedin" src="./icons/contact/linkedin.svg" height='25px'/>
@@ -17,10 +16,10 @@
   <img alt="discord" src="./icons/contact/discord.svg" height='25px'/>
 </a>
 
-English | [Spanish](./READMEes.md)
+Español | [Inglés](./README.md)
 
 ---
-### Contributions
+### Contribución
 - [ADempiere Vue](https://github.com/adempiere/adempiere-vue)
 - [gRPC Data Client](https://github.com/erpcya/gRPC-Data-Client)
 - [Proxy Adempiere Api](https://github.com/adempiere/proxy-adempiere-api)
@@ -29,16 +28,16 @@ English | [Spanish](./READMEes.md)
 - [Frontend Default Theme](https://github.com/solop-develop/frontend-default-theme)
 - [UI Definitions Docs](https://github.com/solop-develop/ui-definitions-docs)
 
-### Statistics Github Stats 📊
+### Estadísticas Github Stats 📊
 ![Statistics Github Stats](https://github-readme-stats.vercel.app/api?username=ElsioSanchez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"])
 
 
 
-## 🏆 Github Profile 
+## 🏆 Perfil Github
 
-### 🔨 Languages and Tools:
+### 🔨 Lenguajes de Programación y Herramientas:
 
-* Front-End:
+#### ***Front-End:***
 
 <table>
   <tr>
@@ -72,7 +71,7 @@ English | [Spanish](./READMEes.md)
 </table>
 
 
-* Data Base:
+#### ***Base de datos:***
 
 <table>
   <tr>
@@ -110,7 +109,7 @@ English | [Spanish](./READMEes.md)
 </table>
 
 
-* DevOps:
+#### ***Operaciones de desarrollo:***
 
 <table>
   <tr>
@@ -141,12 +140,16 @@ English | [Spanish](./READMEes.md)
       <br>Shell
     </td>
     <td align="center" width="96">
-      <img alt="Bash" width="48" height="48" src="./icons/bash/bash.svg"/>
-      <br>Bash
+      <img alt="Bash" src="./icons/bash/bash.svg"/>
+      <br>
+      <b>Bash</b>
     </td>
     <td align="center" width="96">
-      <img alt="Powershell" width="48" height="48" src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" />
-      <br>Powershell
+      <!-- <img alt="Powershell" width="48" height="48" src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" />
+      <br>Powershell -->
+      <img alt="Bash" width="68" height="68"  src="./icons/powerShell/PowerShell.png"/>
+      <br>
+      <b>Powershell</b>
     </td>
     <td align="center" width="96">
       <img alt="Gradle" width="48" height="48" src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg"/>
@@ -160,7 +163,7 @@ English | [Spanish](./READMEes.md)
 </table>
 
 
-* Enviroments work:
+#### ***Entornos de trabajo:***
 
 <table>
   <tr>
@@ -200,3 +203,4 @@ English | [Spanish](./READMEes.md)
     </td>
   </tr>
 </table>
+
