@@ -200,3 +200,10 @@ English | [Spanish](./READMEes.md)
     </td>
   </tr>
 </table>
+
+### ***Donate***
+---
+
+<a alt="Paypal Me" href="https://www.paypal.me/elsiosanchez" target="_blank">
+  <img alt="PayPal" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" />
+</a>

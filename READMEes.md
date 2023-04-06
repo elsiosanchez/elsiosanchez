@@ -204,3 +204,9 @@ Español | [Inglés](./README.md)
   </tr>
 </table>
 
+### ***Donar***
+---
+
+<a alt="Paypal Me" href="https://www.paypal.me/elsiosanchez" target="_blank">
+  <img alt="PayPal" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" />
+</a>
